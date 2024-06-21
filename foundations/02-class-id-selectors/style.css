@@ -1,0 +1,19 @@
+.rosy {
+    background-color: #ff000050;
+    font-family: "Verdana", "DejaVu Sans", serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#sky {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#green {
+    background-color: #00bb0070;
+    font-size: 24px;
+    font-weight: bold;
+}
